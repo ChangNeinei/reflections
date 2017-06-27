@@ -1,1 +1,11 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+	I can make an official version on the remote repository, while make some experiment versions locally, and I won't mess my works up.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	Some works I do may not be the official version, and then I do not need to push to the remote repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks is only used on the GitHub, nonetheless clone can be used on the Github to local, or local to local, and branches is used to create a new purpose.
